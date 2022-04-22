@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Pranavr0y
-- 👀 I’m interested in gay sex 
-- 🌱 I’m currently learning money making
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me - Please dont 
+- 👀 I’m interested in software design and pentration testing 
+- 🌱 I’m currently learning Ruby 
+- 💞️ I’m looking to collabrate on projects of any size 
+- 📫 You can send me an email pranav.k.roy161@gmail.com 
 
 <!---
 PrAnaVr0y/PrAnaVr0y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
