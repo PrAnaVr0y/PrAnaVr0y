@@ -1,5 +1,8 @@
-real gaming gamer
-- 📫 You can send me an email pranav.k.roy161@gmail.com 
+Hello there!
+-  Email - pranav.k.roy161@gmail.com
+-  LinkedIn- https://www.linkedin.com/in/pranav-roy-4b2661209/
+-  Hacker Rank- https://www.hackerrank.com/pranav_k_roy161?hr_r=1
+-  Leetcode-https://leetcode.com/Pranavr0ylul/
 
 <!---
 PrAnaVr0y/PrAnaVr0y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
