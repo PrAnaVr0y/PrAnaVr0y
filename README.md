@@ -5,8 +5,10 @@
 -  Leetcode-https://leetcode.com/Pranavr0ylul/
 -  My Website - work in progress lol
 
-<!---
-PrAnaVr0y/PrAnaVr0y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes. no one cares
+---
 
---->
+[![spotify-github-profile](https:// spotify-github-profile.vercel.app/api /view?uid=errbijnsmdj9f9npmps7gbbm7 &cover_image=true&theme=novatorem& bar_color=53b14f&bar_color_cover= false)](https://github.com/kittinan /spotify-github-profile) <br>
+9 ![](https://komarev.com/ghpvc/?username= Pranav)
+
+
+---
