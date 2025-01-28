@@ -4,5 +4,5 @@ Its purpose is to let visitors know that your site is still around and that the 
 
 
 
-![snake gif](https://github.com/PrAnaVr0y/PrAnaVr0y/blob/output/github-contribution-grid-snake.gif)
+
 
